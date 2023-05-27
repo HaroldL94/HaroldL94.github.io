@@ -1,0 +1,16 @@
+*{
+    border: 0;
+    line-height: 1.5;
+    padding: 0 20px;
+    font-size: 1.5rem;
+    text-align: center;
+    color:goldenrod;
+    text-shadow: 1px 1px 10px #000;
+    border-radius: 100px;
+    background-color:gray;
+    background-image: linear-gradient(to top left, black 20%, blue 30%, black);
+    box-shadow: inset 2px 2px 3px goldenrod, inset -2px -2px 3px whitesmoke;
+    position: relative;
+    min-width:fit-content;
+    max-width: fit-content;
+}
